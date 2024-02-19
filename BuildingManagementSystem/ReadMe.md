@@ -69,10 +69,3 @@ To use these methods, simply call them from an instance of the service class. Fo
 ## Contributions
 
 Contributions to this project are welcome. If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```java
-
-
