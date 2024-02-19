@@ -1,0 +1,38 @@
+
+g	java:S112T"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÍÁ†÷Û1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸Å˜ê8ÎÁ†÷Û1
+G	java:S106"+Replace this use of System.out by a logger.(­Ÿ¿İ8àÂ†÷Û1
+L	java:S106"+Replace this use of System.out by a logger.(Öšÿáúÿÿÿÿ8àÂ†÷Û1
+L	java:S106"+Replace this use of System.out by a logger.(ÃÉ´öÿÿÿÿÿ8àÂ†÷Û1
+G	java:S106"+Replace this use of System.out by a logger.(­”›†8àÂ†÷Û1
+G	java:S106"+Replace this use of System.out by a logger.(í£”ı8áÂ†÷Û1
+G	java:S106"+Replace this use of System.out by a logger.( Ö­“8áÂ†÷Û1
+L	java:S106"+Replace this use of System.out by a logger.(ûíÀ—ÿÿÿÿÿ8áÂ†÷Û1
+G	java:S106"+Replace this use of System.out by a logger.(õšñê8áÂ†÷Û1
+L	java:S106""+Replace this use of System.out by a logger.(ô¨‹ÿÿÿÿÿ8áÂ†÷Û1
+o
+java:S3776."RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(º˜¿½8ãÂ†÷Û1
+L	java:S1061"+Replace this use of System.out by a logger.(¹´Ñâøÿÿÿÿ8äÂ†÷Û1
+G	java:S1062"+Replace this use of System.out by a logger.(Çº“8äÂ†÷Û1
+L	java:S1063"+Replace this use of System.out by a logger.(¨ÍĞÄÿÿÿÿÿ8äÂ†÷Û1
+L	java:S1064"+Replace this use of System.out by a logger.(ûíÀ—ÿÿÿÿÿ8äÂ†÷Û1
+G	java:S1068"+Replace this use of System.out by a logger.(Ô®¦İ8äÂ†÷Û1
+L	java:S106>"+Replace this use of System.out by a logger.(ô¨‹ÿÿÿÿÿ8åÂ†÷Û1
+G	java:S106A"+Replace this use of System.out by a logger.(ÓÈ ç8åÂ†÷Û1
+F	java:S106B"+Replace this use of System.out by a logger.(«µy8åÂ†÷Û1
+L	java:S106D"+Replace this use of System.out by a logger.(îÏö¡ıÿÿÿÿ8åÂ†÷Û1
+L	java:S106F"+Replace this use of System.out by a logger.(¸Ñ§üùÿÿÿÿ8æÂ†÷Û1
+L	java:S106H"+Replace this use of System.out by a logger.(ˆšÑÖüÿÿÿÿ8æÂ†÷Û1
+I
+java:S3011O",This accessibility update should be removed.(˜ÂÓ˜8æÂ†÷Û1
+L	java:S106R"+Replace this use of System.out by a logger.(üäüÄÿÿÿÿÿ8çÂ†÷Û1
+L	java:S106Y"+Replace this use of System.out by a logger.(ˆšÑÖüÿÿÿÿ8èÂ†÷Û1
+L	java:S106b"+Replace this use of System.out by a logger.(¡…ß°ûÿÿÿÿ8èÂ†÷Û1
+G	java:S106c"+Replace this use of System.out by a logger.(Ì´È¨8èÂ†÷Û1
+G	java:S106d"+Replace this use of System.out by a logger.(˜ÌôÄ8èÂ†÷Û1
+G	java:S106i"+Replace this use of System.out by a logger.(Ô®¦İ8éÂ†÷Û1
+C	java:S131l""Add a default case to this switch.(İõô£ùÿÿÿÿ8éÂ†÷Û1
+9
+java:S6205m"Remove this redundant block.(ÇÓ„•8éÂ†÷Û1
+G	java:S106p"+Replace this use of System.out by a logger.(¤£¢©8éÂ†÷Û1
+G	java:S106q"+Replace this use of System.out by a logger.(î•Í€8éÂ†÷Û1

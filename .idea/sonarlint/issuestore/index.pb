@@ -1,0 +1,33 @@
+
+O
+src/main/java/org/n11/Main.java,4\9\498f985735ebf33b12fbaaf935c67e2530a9ee4d
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+P
+ BuildingManagementSystem/pom.xml,4\4\44a3f6556c2efd32b43b2b7a0322fdcb6a25461b
+h
+8BuildingManagementSystem/src/main/java/org/n11/Main.java,7\2\7288c5c9f07a30513d4377b7004996d644fe8ed9
+Å
+QBuildingManagementSystem/src/main/java/org/n11/service/service/SystemService.java,2\b\2bf2f03d508c80644ff69bcc9fe46a2d884041f7
+á
+WBuildingManagementSystem/src/main/java/org/n11/service/serviceImp/SystemServiceImp.java,b\b\bbecdf931461c6456b1ad2446c4d314800c590bf
+r
+BBuildingManagementSystem/src/main/java/org/n11/model/Location.java,d\a\da23c32fe797b0b05e6160b4e8092e2f70f89103
+Ç
+RBuildingManagementSystem/src/main/java/org/n11/service/service/BuildingSystem.java,2\5\25c7078a79f409333608dfaed7693ae4aff8f477
+}
+MBuildingManagementSystem/src/main/java/org/n11/model/enums/BuildingTypes.java,3\1\3184cca060fce12ecefc2815e16dc01237996a34
+o
+?BuildingManagementSystem/src/main/java/org/n11/model/House.java,7\d\7d4b9136218d96ee27c393fea35a0fb2873904e1
+u
+EBuildingManagementSystem/src/main/java/org/n11/model/SummerHouse.java,f\6\f66eeb6311eacf48690842e61c531632053b4953
+r
+BBuildingManagementSystem/src/main/java/org/n11/model/Building.java,a\c\acc471f33885e10ce369b091618999aad677cba3
+o
+?BuildingManagementSystem/src/main/java/org/n11/model/Villa.java,d\7\d77a8f961dea46dc0b1ddc3844c2c3500da34aa6
+â
+YBuildingManagementSystem/src/main/java/org/n11/service/serviceImp/BuildingServiceImp.java,4\7\47aa245d46bff91b7d02ec4c7260603a296eb086
+Ü
+VBuildingManagementSystem/src/main/java/org/n11/service/serviceImp/HouseServiceImp.java,2\6\26f63ad46510495102b8f4418ceac6ca9cbd2b1f
+R
+"BuildingManagementSystem/ReadMe.md,b\f\bfc5e1953fcf5e58ec212875f765a82f4b5c6071
