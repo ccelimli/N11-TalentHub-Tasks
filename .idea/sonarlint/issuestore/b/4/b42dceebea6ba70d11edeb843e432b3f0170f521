@@ -1,0 +1,12 @@
+
+k
+java:S1192"IDefine a constant instead of duplicating this literal "Customer" 5 times.(ïÓ„İüÿÿÿÿ8ºûè‚Ş1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ëÇşÿÿÿÿ8»ûè‚Ş1
+o
+java:S6204/"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Äûè‚Ş1
+o
+java:S6204="RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Æûè‚Ş1
+o
+java:S6204J"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Æûè‚Ş1
+o
+java:S6204_"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(â¥8Êûè‚Ş1

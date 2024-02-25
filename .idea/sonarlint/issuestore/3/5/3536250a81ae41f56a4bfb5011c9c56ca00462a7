@@ -1,0 +1,13 @@
+
+w
+java:S1104"UMake firstName a static final constant or non-public and provide accessors if needed.(ßæÆÑıÿÿÿÿ8÷íÛìİ1
+p
+java:S1104"TMake lastName a static final constant or non-public and provide accessors if needed.(¿ü8øíÛìİ1
+q
+java:S1104"TMake products a static final constant or non-public and provide accessors if needed.(¼Ù8øíÛìİ1
+t
+java:S1104"RMake amount a static final constant or non-public and provide accessors if needed.(ıÖù×øÿÿÿÿ8øíÛìİ1
+{
+java:S1104"YMake localDateTime a static final constant or non-public and provide accessors if needed.(§–÷Ãûÿÿÿÿ8‚“èìİ1
+U
+java:S1128"3Remove this unused import 'org.n11.entity.Product'.(´™ÿ¿ıÿÿÿÿ8üñûıİ1

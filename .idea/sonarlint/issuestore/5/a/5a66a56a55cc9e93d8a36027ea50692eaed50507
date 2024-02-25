@@ -1,0 +1,11 @@
+
+m	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç‘ö8ç©Ô‚Ş1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ëÇşÿÿÿÿ8è©Ô‚Ş1
+_
+java:S1612!"BReplace this lambda with method reference 'InvoiceDto::getAmount'.(ôÀÅ‰8±ÛÖ‚Ş1
+o
+java:S62040"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ø©Ô‚Ş1
+o
+java:S6204@"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8û©Ô‚Ş1
+d
+java:S1612G"BReplace this lambda with method reference 'InvoiceDto::getAmount'.(Ì¢íÆøÿÿÿÿ8ĞªÙ‚Ş1

@@ -1,0 +1,17 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö”­íşÿÿÿÿ8çÏˆúİ1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ï‡³Áûÿÿÿÿ8Ã«•úİ1
+Y
+java:S1128"<Remove this unused import 'org.n11.service.CustomerService'.(Õõ¡Ò8Å ’úİ1
+]
+java:S1128"@Remove this unused import 'org.n11.service.Imp.OrderServiceImp'.(Óğ³8‚¬Üûİ1
+d
+java:S1128"BRemove this unused import 'org.n11.service.Imp.ProductServiceImp'.(è§¨éşÿÿÿÿ8‚¬Üûİ1
+V
+java:S1128	"9Remove this unused import 'org.n11.service.OrderService'.(§è´½8Å ’úİ1
+X
+java:S1128
+";Remove this unused import 'org.n11.service.ProductService'.(ˆ Üã8Å ’úİ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8‚¬Üûİ1

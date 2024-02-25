@@ -1,0 +1,83 @@
+
+t
+java:S1192+"RDefine a constant instead of duplicating this literal "0 - Ã‡Ä±kÄ±ÅŸ Yap" 5 times.(ûíÀ—ÿÿÿÿÿ8Úã‚úİ1
+n
+java:S1192J"QDefine a constant instead of duplicating this literal "GeÃ§ersiz deÄŸer" 4 times.(Ô®¦İ8Úã‚úİ1
+u
+java:S11929"SDefine a constant instead of duplicating this literal "Unexpected value: " 5 times.(òÉÃ’ÿÿÿÿÿ8Úã‚úİ1
+s
+java:S1192S"QDefine a constant instead of duplicating this literal "MÃ¼ÅŸterini Id: " 3 times.(„ß°Òüÿÿÿÿ8Úã‚úİ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ëÇşÿÿÿÿ8Üã‚úİ1
+G	java:S106#"+Replace this use of System.out by a logger.(­Ÿ¿İ8˜è‚úİ1
+L	java:S106&"+Replace this use of System.out by a logger.(Öšÿáúÿÿÿÿ8™è‚úİ1
+L	java:S106'"+Replace this use of System.out by a logger.(Ñ‚Ûàşÿÿÿÿ8™è‚úİ1
+L	java:S106("+Replace this use of System.out by a logger.(¶‘£êşÿÿÿÿ8™è‚úİ1
+L	java:S106)"+Replace this use of System.out by a logger.(®íÃ¾ÿÿÿÿÿ8šè‚úİ1
+G	java:S106*"+Replace this use of System.out by a logger.(·½íÑ8šè‚úİ1
+L	java:S106+"+Replace this use of System.out by a logger.(ûíÀ—ÿÿÿÿÿ8šè‚úİ1
+G	java:S106,"+Replace this use of System.out by a logger.(õšñê8šè‚úİ1
+L	java:S1062"+Replace this use of System.out by a logger.(ô¨‹ÿÿÿÿÿ8šè‚úİ1
+L	java:S106@"+Replace this use of System.out by a logger.(†ìøÄşÿÿÿÿ8œè‚úİ1
+G	java:S106A"+Replace this use of System.out by a logger.(óñÕê8œè‚úİ1
+G	java:S106B"+Replace this use of System.out by a logger.(·›˜¾8œè‚úİ1
+G	java:S106C"+Replace this use of System.out by a logger.(¹é¸–8œè‚úİ1
+L	java:S106D"+Replace this use of System.out by a logger.(¥ê‹şÿÿÿÿ8œè‚úİ1
+G	java:S106E"+Replace this use of System.out by a logger.(ò²­±8è‚úİ1
+L	java:S106F"+Replace this use of System.out by a logger.(ûíÀ—ÿÿÿÿÿ8è‚úİ1
+G	java:S106J"+Replace this use of System.out by a logger.(Ô®¦İ8è‚úİ1
+L	java:S106S"+Replace this use of System.out by a logger.(„ß°Òüÿÿÿÿ8è‚úİ1
+F	java:S106U"+Replace this use of System.out by a logger.(ëø¼a8è‚úİ1
+G	java:S106W"+Replace this use of System.out by a logger.(Â£Ê8è‚úİ1
+G	java:S106["+Replace this use of System.out by a logger.(‹ÉÃú8è‚úİ1
+G	java:S106]"+Replace this use of System.out by a logger.(Áƒûí8è‚úİ1
+L	java:S106_"+Replace this use of System.out by a logger.(Ó¤Üèùÿÿÿÿ8è‚úİ1
+G	java:S106n"+Replace this use of System.out by a logger.(ª©±³8Ÿè‚úİ1
+G	java:S106o"+Replace this use of System.out by a logger.(ŞèÓË8Ÿè‚úİ1
+L	java:S106p"+Replace this use of System.out by a logger.(ÒŒï•üÿÿÿÿ8Ÿè‚úİ1
+L	java:S106q"+Replace this use of System.out by a logger.(Áß¬Àøÿÿÿÿ8Ÿè‚úİ1
+L	java:S106r"+Replace this use of System.out by a logger.(ƒ¿Î˜ûÿÿÿÿ8 è‚úİ1
+L	java:S106s"+Replace this use of System.out by a logger.(ûíÀ—ÿÿÿÿÿ8 è‚úİ1
+G	java:S106w"+Replace this use of System.out by a logger.(Ô®¦İ8 è‚úİ1
+M	java:S106€"+Replace this use of System.out by a logger.(Ó¤Üèùÿÿÿÿ8 è‚úİ1
+M	java:S106…"+Replace this use of System.out by a logger.(„ß°Òüÿÿÿÿ8¢è‚úİ1
+M	java:S106‡"+Replace this use of System.out by a logger.(£§·¡üÿÿÿÿ8¢è‚úİ1
+H	java:S106"+Replace this use of System.out by a logger.(—œ§å8¢è‚úİ1
+M	java:S106"+Replace this use of System.out by a logger.(Šğå£ÿÿÿÿÿ8£è‚úİ1
+M	java:S106"+Replace this use of System.out by a logger.(›ì Œúÿÿÿÿ8£è‚úİ1
+G	java:S106‘"+Replace this use of System.out by a logger.(çÅ•w8£è‚úİ1
+M	java:S106’"+Replace this use of System.out by a logger.(ıÓ½ıÿÿÿÿ8£è‚úİ1
+\
+java:S1854±">Remove this useless assignment to local variable "customerId".(õ×Ø8¤è‚úİ1
+\
+java:S1854®"?Remove this useless assignment to local variable "createdTime".(ó—ÕL8¤è‚úİ1
+T
+java:S1854¬"6Remove this useless assignment to local variable "id".(Á™€¦8¤è‚úİ1
+]
+java:S1854À":Remove this useless assignment to local variable "amount".(›’¨şÿÿÿÿ8¤è‚úİ1
+H	java:S106š"+Replace this use of System.out by a logger.(‹í²¯8¤è‚úİ1
+H	java:S106›"+Replace this use of System.out by a logger.(óÌ±Ó8¤è‚úİ1
+M	java:S106œ"+Replace this use of System.out by a logger.(Ï‰ˆªøÿÿÿÿ8¤è‚úİ1
+M	java:S106"+Replace this use of System.out by a logger.(ûíÀ—ÿÿÿÿÿ8¥è‚úİ1
+H	java:S106¡"+Replace this use of System.out by a logger.(Ô®¦İ8¥è‚úİ1
+M	java:S106«"+Replace this use of System.out by a logger.(Ó¤Üèùÿÿÿÿ8¥è‚úİ1
+E
+java:S1481¬"'Remove this unused "id" local variable.(Á™€¦8¦è‚úİ1
+M
+java:S1481®"0Remove this unused "createdTime" local variable.(ó—ÕL8¦è‚úİ1
+M	java:S106°"+Replace this use of System.out by a logger.(„ß°Òüÿÿÿÿ8¦è‚úİ1
+M
+java:S1481±"/Remove this unused "customerId" local variable.(õ×Ø8¦è‚úİ1
+H	java:S106³"+Replace this use of System.out by a logger.(éÒ•ó8¦è‚úİ1
+M	java:S106¶"+Replace this use of System.out by a logger.(‡ÁÉ«úÿÿÿÿ8§è‚úİ1
+N
+java:S1481À"+Remove this unused "amount" local variable.(›’¨şÿÿÿÿ8¨è‚úİ1
+H	java:S106Ã"+Replace this use of System.out by a logger.(â¼ô8¨è‚úİ1
+M	java:S106Å"+Replace this use of System.out by a logger.(Ëê³ôşÿÿÿÿ8¨è‚úİ1
+M	java:S106Ç"+Replace this use of System.out by a logger.(Ó¤Üèùÿÿÿÿ8¨è‚úİ1
+M	java:S106É"+Replace this use of System.out by a logger.(…ÔêÑúÿÿÿÿ8¨è‚úİ1
+M	java:S106Ò"+Replace this use of System.out by a logger.(é†İ¯üÿÿÿÿ8©è‚úİ1
+M	java:S106Ó"+Replace this use of System.out by a logger.(ûíÀ—ÿÿÿÿÿ8©è‚úİ1
+H	java:S106×"+Replace this use of System.out by a logger.(Ô®¦İ8©è‚úİ1
+H	java:S106ß"+Replace this use of System.out by a logger.(ÙšÔ¡8«è‚úİ1
+M	java:S106â"+Replace this use of System.out by a logger.(Ó¤Üèùÿÿÿÿ8İ¶ìûİ1
+G	java:S106ä"+Replace this use of System.out by a logger.(ü…¥$8İ¶ìûİ1
