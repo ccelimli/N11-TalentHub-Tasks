@@ -11,5 +11,5 @@ import org.n11.entity.request.WeatherInfoRequest;
  * @author Çağatay Çelimli
  */
 public interface WeatherService {
-    public Weather getWeatherInfo(WeatherInfoRequest weatherInfoRequest);
+     Weather getWeatherInfo(WeatherInfoRequest weatherInfoRequest);
 }

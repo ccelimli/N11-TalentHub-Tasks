@@ -71,8 +71,6 @@ o
 ?OrderManagementSystem/src/main/java/org/n11/dto/ProductDto.java,4\0\4063d4eedac17ccc1daa03faa1a9345988a42580
 O
 OrderManagementSystem/Readme.md,a\6\a6d1966842a42b6f5b48f4198d70b555d4d6b53c
-s
-CWeatherApp/src/main/java/org/n11/utilities/config/MyRestClient.java,3\c\3cd3b0135cf1941cb175f6c551588e779cceef19
 |
 LWeatherApp/src/main/java/org/n11/utilities/exceptions/BusinessException.java,1\9\19f42290fbedd37343af0ac6f705a9821e677a12
 ~
@@ -85,8 +83,6 @@ VWeatherApp/src/main/java/org/n11/utilities/exceptions/ServiceUnavailableExcepti
 `WeatherApp/src/main/java/org/n11/utilities/general/controllerAdvice/GeneralControllerAdvice.java,1\1\119e385ca0459a92f4d21431d675f573c66289ef
 h
 8WeatherApp/src/main/java/org/n11/constant/Constants.java,0\7\07a0c8a7966c49f328035cdf60e2226f39943e09
-u
-EWeatherApp/src/main/java/org/n11/utilities/config/BaseRestClient.java,9\1\91e939ed63f44bcdb541454e777ef2d14f419ad8
 l
 <WeatherApp/src/main/java/org/n11/service/WeatherService.java,5\1\51c1c0c111fa05857a092271c87420938b7f1fbc
 w
@@ -95,8 +91,6 @@ o
 ?WeatherApp/src/main/java/org/n11/entity/dto/WeatherInfoDTO.java,e\f\ef364ba1589711dd1fc79f0bf386f9ba444d1368
 B
 WeatherApp/pom.xml,e\0\e0534b17533908b129323bd5090257c3515f7e9a
-l
-<WeatherApp/src/main/java/org/n11/entity/enums/Frequency.java,6\5\65518c6b571f3c2d28b73a500e675896717375f1
 r
 BWeatherApp/src/main/java/org/n11/service/mapper/WeatherMapper.java,8\2\82429e1b101969ed46fa9964f491410b8251addb
 u

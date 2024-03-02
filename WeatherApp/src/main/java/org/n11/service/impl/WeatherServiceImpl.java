@@ -7,11 +7,10 @@ import org.n11.entity.Weather;
 import org.n11.entity.enums.TimeZone;
 import org.n11.entity.request.WeatherInfoRequest;
 import org.n11.service.WeatherService;
-import org.n11.service.mapper.WeatherMapper;
-import org.n11.utilities.config.BaseRestClient;
 import org.n11.utilities.exceptions.BusinessException;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestClientException;
+import org.springframework.web.client.RestTemplate;
 
 /**
  * Copyright (c) 2024
@@ -23,17 +22,16 @@ import org.springframework.web.client.RestClientException;
 @RequiredArgsConstructor
 public class WeatherServiceImpl implements WeatherService {
 
-    private final BaseRestClient baseRestClient;
+    private final RestTemplate restTemplate;
 
 
     @Override
     public Weather getWeatherInfo(WeatherInfoRequest weatherInfoRequest) {
        try{
            String url=urlGenerator(weatherInfoRequest);
-           Weather weather=WeatherMapper.INSTANCE.convertToWeather(baseRestClient.getObject(url, WeatherInfoRequest.class));
-           return weather;
-       }catch (RestClientException error){
-            throw new BusinessException(WeatherErrorMessage.NOT_VALID_API_KEY);
+           return restTemplate.getForObject(url, Weather.class);
+       }catch (Exception error){
+           throw new RuntimeException(error.getMessage());
        }
     }
 

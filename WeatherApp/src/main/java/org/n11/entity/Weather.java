@@ -22,7 +22,6 @@ import java.util.List;
 @NoArgsConstructor
 public class Weather {
     private Coord coord;
-    private Weather weather;
     private String base;
     private Main main;
     private Integer visibility;
