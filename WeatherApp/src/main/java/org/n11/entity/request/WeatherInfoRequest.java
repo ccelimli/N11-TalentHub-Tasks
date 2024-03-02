@@ -1,7 +1,7 @@
 package org.n11.entity.request;
 
 import jakarta.validation.constraints.NotNull;
-import org.n11.entity.enums.Frequency;
+import org.n11.entity.enums.TimeZone;
 
 /**
  * Copyright (c) 2024
@@ -16,6 +16,6 @@ public record WeatherInfoRequest(
         @NotNull
         String city,
         @NotNull
-        Frequency frequency) {
+        TimeZone timeZone) {
 
 }

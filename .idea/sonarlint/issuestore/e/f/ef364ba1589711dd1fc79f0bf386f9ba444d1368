@@ -1,9 +1,5 @@
 
-X
-java:S1128"6Remove this unused import 'lombok.AllArgsConstructor'.(´œ¾öùÿÿÿÿ8íãÔãß1
-G
-java:S1128"*Remove this unused import 'lombok.Getter'.(ùÒµÙ8íãÔãß1
-R
-java:S1128"5Remove this unused import 'lombok.NoArgsConstructor'.(¸¨›8íãÔãß1
-G
-java:S1128"*Remove this unused import 'lombok.Setter'.(ó¸çµ8íãÔãß1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¢ï€åß1
+Q
+java:S1128"/Remove this unused import 'java.util.TimeZone'.(à‡Õùÿÿÿÿ8£ï€åß1

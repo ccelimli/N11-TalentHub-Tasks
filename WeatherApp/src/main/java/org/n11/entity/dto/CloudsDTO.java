@@ -1,4 +1,4 @@
-package org.n11.entity.enums;
+package org.n11.entity.dto;
 
 /**
  * Copyright (c) 2024
@@ -6,8 +6,8 @@ package org.n11.entity.enums;
  *
  * @author Çağatay Çelimli
  */
-public enum Frequency {
-    DAILY,
-    WEEKLY,
-    MONTHLY,
+public record CloudsDTO(
+         Integer all
+
+) {
 }

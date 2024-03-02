@@ -1,10 +1,8 @@
 package org.n11.entity.dto;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
-import org.n11.entity.enums.Frequency;
+
+import java.util.List;
+import java.util.TimeZone;
 
 /**
  * Copyright (c) 2024
@@ -14,10 +12,9 @@ import org.n11.entity.enums.Frequency;
  */
 
 public record WeatherInfoDTO(
-        String country,
         String city,
-        Frequency frequency,
-        Double temperature,
-        String main
+        String country,
+        String temperature,
+        String mainStatus
 ) { }
 
